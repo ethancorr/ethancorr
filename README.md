@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ethan
-- 🌱 I’m looking to collaborate on mathemctical ecology projects
+- 🌱 I’m looking to collaborate on mathematical ecology projects
 - 📫 How to reach me: emcorr1@yahoo.com
 
 <!---
