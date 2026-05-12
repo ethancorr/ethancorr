@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ethan
-- 🌱 I’m looking to collaborate on mathematical ecology projects
-- 📫 How to reach me: emcorr1@yahoo.com
+- 📫 How to reach me: ethan.corr@marquette.edu
 
 <!---
 emcorr1/emcorr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
