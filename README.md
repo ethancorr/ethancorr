@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ethan
 - 📫 How to reach me: ethan.corr@marquette.edu
-- ✨ My Personal website: https://ethancorr.github.io/
+- ✨ Professional Webpage: https://ethancorr.github.io/
 
 <!---
 emcorr1/emcorr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
